@@ -28,14 +28,14 @@ Allow yourselves a maximum of 2 attempts at each round to determine your best sc
 ## Course records:
 These are the best known scores, achieved using IntelliJ:
 
-| Hole | Best score | Notes |
-|------|------------|-------|
-| 1    | 3          |       |
-| 2    | 7          |       |
-| 3    | 5          |       |
-| 4    | 6          |       |
-| 5    | 10         |       |
-| 6    | 7          |       |
+| Hole | Best score | Notes | My score |
+|------|------------|-------|----------|
+| 1    | 3          |       |          |
+| 2    | 7          |       |          |
+| 3    | 5          |       |          |
+| 4    | 6          |       |          |
+| 5    | 10         |       |          |
+| 6    | 7          |       |          |
  
 <b>Course Record: 38</b>
 
