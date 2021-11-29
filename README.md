@@ -34,7 +34,7 @@ These are the best known scores, achieved using IntelliJ:
 | 2    | 7          |       | 1+2+1+1+2+1+1+1+1+1     |
 | 3    | 5          |       | 2+1+2+2  |
 | 4    | 6          |       | 1+1+1+1+2+1         |
-| 5    | 10         |       |          |
+| 5    | 10         |       | 1+1+1+1+1+2         |
 | 6    | 7          |       |          |
  
 <b>Course Record: 38</b>
