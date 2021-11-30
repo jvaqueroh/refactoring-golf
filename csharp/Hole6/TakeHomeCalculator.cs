@@ -1,8 +1,6 @@
-﻿using System.Collections.Generic;
-using System.Linq;
+﻿using System.Linq;
 
-namespace Hole6
-{
+namespace Hole6 {
     public class TakeHomeCalculator
     {
         private readonly TaxRate taxRate;
