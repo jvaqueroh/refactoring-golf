@@ -6,3 +6,6 @@ riderModule.iml
 .idea/
 *DotSettings.user
 .vs/
+*.suo
+*.log
+*.testlog
