@@ -31,7 +31,7 @@ These are the best known scores, achieved using IntelliJ:
 | Hole | Best score | Notes | My score |
 |------|------------|-------|----------|
 | 1    | 3          |       | 1 (To Equals call) + 1 (To Equals call) + 1 (Invert if) + 1 (Remove redundant else)        |
-| 2    | 7          |       |          |
+| 2    | 7          |       | 1 (Rename)         |
 | 3    | 5          |       |          |
 | 4    | 6          |       |          |
 | 5    | 10         |       |          |
