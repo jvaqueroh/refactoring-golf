@@ -1,16 +1,16 @@
 # Refactoring Golf
 
-Refactoring Golf is a game designed to stretch your refactoring muscles and get you to explore your IDE to see what's really possible using shortcuts and automation.
+    Refactoring Golf is a game designed to stretch your refactoring muscles and get you to explore your IDE to see what's really possible using shortcuts and automation.
 
-This repo contains several source trees, or numbered "Holes" based on a single exercise. Each hole carries on from the last for a single exercise - which is the application of a tax amount to a set of monatary amount.
+    This repo contains several source trees, or numbered "Holes" based on a single exercise. Each hole carries on from the last for a single exercise - which is the application of a tax amount to a set of monatary amount.
 
-Your goal is to safely and efficiently as possible refactor the Hole-X code to look like the Hole X+1 code. You must aim to do it in as few "strokes" as possible.
+    Your goal is to safely and efficiently as possible refactor the Hole-X code to look like the Hole X+1 code. You must aim to do it in as few "strokes" as possible.
 
-A "stroke" is essentially a change made to the code, and every stroke costs you points.
+    A "stroke" is essentially a change made to the code, and every stroke costs you points.
 
-Your pairing partner should carefully score you as follows:
+    Your pairing partner should carefully score you as follows:
 
-- 1 point for every change made to the code using a shortcut or automated IDE feature (e.g., an automated refactoring, code template, or Find/Replace)
+      - 1 point for every change made to the code using a shortcut or automated IDE feature (e.g., an automated refactoring, code template, or Find/Replace)
 - 2 points for every manual edit. Note that a single "edit" could cover multiple lines of code.
 - Double points for every change made while the code cannot pass the tests after the previous change.
 - Zero points for code formatting (e.g., deleting whitespace or optimizing imports).
@@ -31,7 +31,7 @@ These are the best known scores, achieved using IntelliJ:
 | Hole | Best score | Notes | My score |
 |------|------------|-------|----------|
 | 1    | 3          |       | 1 (To Equals call) + 1 (To Equals call) + 1 (Invert if) + 1 (Remove redundant else)        |
-| 2    | 7          |       | 1 (Rename)         |
+| 2    | 7          |       | 1 (rename param) + 1 (rename param) + 1 (change signature) + 1x2 (change type) + 1x2 (remove redundant type)         |
 | 3    | 5          |       |          |
 | 4    | 6          |       |          |
 | 5    | 10         |       |          |

@@ -1,14 +1,14 @@
 ﻿namespace Hole2
 {
-    public class Money<A, B>
+    public class Money
     {
-        public readonly A first;
-        public readonly B second;
+        public readonly int value;
+        public readonly string currency;
 
-        public Money(A first, B second)
+        public Money(int value, string currency)
         {
-            this.first = first;
-            this.second = second;
+            this.value = value;
+            this.currency = currency;
         }
     }
 }
