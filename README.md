@@ -32,7 +32,7 @@ These are the best known scores, achieved using IntelliJ:
 |------|------------|-------|----------|
 | 1    | 3          |       | 1 (To Equals call) + 1 (To Equals call) + 1 (Invert if) + 1 (Remove redundant else)        |
 | 2    | 7          |       | 1 (rename param) + 1 (rename param) + 1 (change signature) + 1x2 (change type) + 1x2 (remove redundant type)         |
-| 3    | 5          |       |          |
+| 3    | 5          |       | 2 (merge foreachs) + 1 (extract method) + 1 (make method non-static) + 1 (rename parameter) + 1 (inline return) + 1 (inline variable  )   |
 | 4    | 6          |       |          |
 | 5    | 10         |       |          |
 | 6    | 7          |       |          |
