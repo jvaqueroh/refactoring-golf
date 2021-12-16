@@ -35,7 +35,7 @@ These are the best known scores, achieved using IntelliJ:
 | 3    | 5          |       | 2 (merge foreachs) + 1 (extract method) + 1 (make method non-static) + 1 (rename parameter) + 1 (inline return) + 1 (inline variable  )   |
 | 4    | 6          |       | 1 (extract method) + 1 (make method non-static) + 1 (delete param) + 2 manual fix param + 1 factory method + 1 remane param   |
 | 5    | 10         |       | 1 (extract class) + 1 (introduce param in ctor) + 1 (extract method Apply) + 2 (change use of first -> total) + 1 (safe dalete first param) + 1 (inline return) + 1 (move instace method) + 1 (factory method)  |
-| 6    | 7          |       |          |
+| 6    | 7          |       | 1 (convert to linq) + 1 (inline variable) + 2 (manually remove ToList) + 1x2 (raname lambda variables)     |
  
 <b>Course Record: 38</b>
 
