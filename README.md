@@ -30,13 +30,15 @@ These are the best known scores, achieved using IntelliJ:
 
 | Hole | Best score | Notes | My score |
 |------|------------|-------|----------|
-| 1    | 3          |       | 1 (To Equals call) + 1 (To Equals call) + 1 (Invert if) + 1 (Remove redundant else)        |
-| 2    | 7          |       | 1 (rename param) + 1 (rename param) + 1 (change signature) + 1x2 (change type) + 1x2 (remove redundant type)         |
-| 3    | 5          |       | 2 (merge foreachs) + 1 (extract method) + 1 (make method non-static) + 1 (rename parameter) + 1 (inline return) + 1 (inline variable  )   |
-| 4    | 6          |       | 1 (extract method) + 1 (make method non-static) + 1 (delete param) + 2 manual fix param + 1 factory method + 1 remane param   |
-| 5    | 10         |       | 1 (extract class) + 1 (introduce param in ctor) + 1 (extract method Apply) + 2 (change use of first -> total) + 1 (safe dalete first param) + 1 (inline return) + 1 (move instace method) + 1 (factory method)  |
-| 6    | 7          |       | 1 (convert to linq) + 1 (inline variable) + 2 (manually remove ToList) + 1x2 (raname lambda variables)     |
+| 1    | 3          |   4   | 1 (To Equals call) + 1 (To Equals call) + 1 (Invert if) + 1 (Remove redundant else)        |
+| 2    | 7          |   7   | 1 (rename param) + 1 (rename param) + 1 (change signature) + 1x2 (change type) + 1x2 (remove redundant type)         |
+| 3    | 5          |   7   | 2 (merge foreachs) + 1 (extract method) + 1 (make method non-static) + 1 (rename parameter) + 1 (inline return) + 1 (inline variable  )   |
+| 4    | 6          |   7   | 1 (extract method) + 1 (make method non-static) + 1 (delete param) + 2 manual fix param + 1 factory method + 1 remane param   |
+| 5    | 10         |   9   | 1 (extract class) + 1 (introduce param in ctor) + 1 (extract method Apply) + 2 (change use of first -> total) + 1 (safe dalete first param) + 1 (inline return) + 1 (move instace method) + 1 (factory method)  |
+| 6    | 7          |   6   | 1 (convert to linq) + 1 (inline variable) + 2 (manually remove ToList) + 1x2 (raname lambda variables)     |
  
+**My total: 44**
+
 <b>Course Record: 38</b>
 
 ## Acknowledgements:
